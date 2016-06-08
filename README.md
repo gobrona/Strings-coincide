@@ -1,2 +1,2 @@
 # Strings-coincide
-this is strings coincide app
+String's coincide.
